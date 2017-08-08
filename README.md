@@ -10,11 +10,11 @@ As we write code with TeamMood, we use [`git`](https://git-scm.com/). We've hear
 
 As we have quite a few people working on various projects in parallel, naturally we've wanted to have some sort of structure to our Github.
 
-##### 1.1) :crystal_ball: Transparency
+##### 1.0) :crystal_ball: Transparency
 
 First and foremost, we're a community. As such, we enable & want to foster growth, learning, and discussion between everyone as much as possible. Therefore, everyone within TeamMood will be able to have `read` access to everyone else's repos & the repos will be public. We're doing this for a couple reasons. 1) Its a great way to build your programming portfolio & showcase your work to potential employers, friends, family, etc. 2) We want everyone in the community to have the ability to ask questions, review others' code, and to keep tabs on all the cool shit that everyone else is working on. We _**encourage**_ questions and constructive feedbackn (and comments on PRs!). After all, aren't we all trying to be the best developers we can be? :100:
 
-##### 1.2) :white_check_mark: Teams
+##### 1.1) :white_check_mark: Teams
 
 Your mentor teams have also been translated to the teams within the [TeamMood Github Organization](https://github.com/TeamMoodGitHub), and here's a quick look at what they look like:
 
